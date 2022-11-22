@@ -3,6 +3,7 @@
 - 🌱 We are currently learning Python
 - 💞️ We are looking to collaborate on Python, Django, and JavaScript projects
 - 📫 How to reach us https://twitter.com/LaTechExpertos
+- 📫 Anyone is allowed to join us
 
 <!---
 LaTechExpertos/LaTechExpertos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
